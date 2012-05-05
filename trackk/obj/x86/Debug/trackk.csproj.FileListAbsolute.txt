@@ -1,0 +1,45 @@
+C:\Users\dewflower\Documents\Visual Studio 2010\Projects\trackk\trackk\bin\Debug\trackk.exe
+C:\Users\dewflower\Documents\Visual Studio 2010\Projects\trackk\trackk\bin\Debug\trackk.pdb
+C:\Users\dewflower\Documents\Visual Studio 2010\Projects\trackk\trackk\bin\Debug\AForge.Controls.dll
+C:\Users\dewflower\Documents\Visual Studio 2010\Projects\trackk\trackk\bin\Debug\AForge.dll
+C:\Users\dewflower\Documents\Visual Studio 2010\Projects\trackk\trackk\bin\Debug\AForge.Imaging.dll
+C:\Users\dewflower\Documents\Visual Studio 2010\Projects\trackk\trackk\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\dewflower\Documents\Visual Studio 2010\Projects\trackk\trackk\bin\Debug\AForge.Video.dll
+C:\Users\dewflower\Documents\Visual Studio 2010\Projects\trackk\trackk\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dewflower\Documents\Visual Studio 2010\Projects\trackk\trackk\obj\x86\Debug\trackk.f21.resources
+C:\Users\dewflower\Documents\Visual Studio 2010\Projects\trackk\trackk\obj\x86\Debug\trackk.Properties.Resources.resources
+C:\Users\dewflower\Documents\Visual Studio 2010\Projects\trackk\trackk\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dewflower\Documents\Visual Studio 2010\Projects\trackk\trackk\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dewflower\Documents\Visual Studio 2010\Projects\trackk\trackk\obj\x86\Debug\trackk.exe
+C:\Users\dewflower\Documents\Visual Studio 2010\Projects\trackk\trackk\obj\x86\Debug\trackk.pdb
+C:\Users\Anuj\Desktop\trackk\trackk\obj\x86\Debug\trackk.exe
+C:\Users\Anuj\Desktop\trackk\trackk\obj\x86\Debug\trackk.pdb
+C:\Users\Anuj\Desktop\trackk\trackk\bin\Debug\trackk.exe
+C:\Users\Anuj\Desktop\trackk\trackk\bin\Debug\trackk.pdb
+C:\Users\Anuj\Desktop\trackk\trackk\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Anuj\Desktop\trackk\trackk\obj\x86\Debug\trackk.f21.resources
+C:\Users\Anuj\Desktop\trackk\trackk\obj\x86\Debug\trackk.Properties.Resources.resources
+C:\Users\Anuj\Desktop\trackk\trackk\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Anuj\Desktop\trackk\trackk\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Anuj\Desktop\Gesture\trackk\trackk\obj\x86\Debug\trackk.exe
+C:\Users\Anuj\Desktop\Gesture\trackk\trackk\obj\x86\Debug\trackk.pdb
+C:\Users\Anuj\Desktop\Gesture\trackk\trackk\bin\Debug\trackk.exe
+C:\Users\Anuj\Desktop\Gesture\trackk\trackk\bin\Debug\trackk.pdb
+C:\Users\Anuj\Desktop\Gesture\trackk\trackk\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Anuj\Desktop\Gesture\trackk\trackk\obj\x86\Debug\trackk.f21.resources
+C:\Users\Anuj\Desktop\Gesture\trackk\trackk\obj\x86\Debug\trackk.Properties.Resources.resources
+C:\Users\Anuj\Desktop\Gesture\trackk\trackk\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Anuj\Desktop\Gesture\trackk\trackk\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Anuj\Desktop\Gesture\trackk\trackk\bin\Debug\InputSimulator.pdb
+C:\Users\Anuj\Desktop\Gesture\trackk\trackk\bin\Debug\InputSimulator.xml
+C:\Users\samkit\Contacts\Desktop\trackk2\trackk\trackk\obj\x86\Debug\trackk.exe
+C:\Users\samkit\Contacts\Desktop\trackk2\trackk\trackk\obj\x86\Debug\trackk.pdb
+C:\Users\samkit\Contacts\Desktop\trackk2\trackk\trackk\bin\Debug\trackk.exe
+C:\Users\samkit\Contacts\Desktop\trackk2\trackk\trackk\bin\Debug\trackk.pdb
+C:\Users\samkit\Contacts\Desktop\trackk2\trackk\trackk\bin\Debug\InputSimulator.pdb
+C:\Users\samkit\Contacts\Desktop\trackk2\trackk\trackk\bin\Debug\InputSimulator.xml
+C:\Users\samkit\Contacts\Desktop\trackk2\trackk\trackk\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\samkit\Contacts\Desktop\trackk2\trackk\trackk\obj\x86\Debug\trackk.f21.resources
+C:\Users\samkit\Contacts\Desktop\trackk2\trackk\trackk\obj\x86\Debug\trackk.Properties.Resources.resources
+C:\Users\samkit\Contacts\Desktop\trackk2\trackk\trackk\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\samkit\Contacts\Desktop\trackk2\trackk\trackk\obj\x86\Debug\GenerateResource.write.1.tlog
