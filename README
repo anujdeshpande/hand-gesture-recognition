@@ -1,0 +1,13 @@
+Simple Hand Gesture Recognition to control the VLC media player 
+A project by :
+Samkit Shah 
+Hasit Mistry 
+Anuj Deshpande
+
+Background : This was a project me and 2 other friends did for a project competetion in our first year(freshman) year of computer engineering .
+In this we used a C# application for color detection available here :
+http://www.codeproject.com/Articles/139628/Detect-and-Track-Objects-in-Live-Webcam-Video-base
+The application we used is available under the CPOL (Code Project Open License) on the above link
+
+We added a few features to it so that it could control the VLC media player . For this we used Sendkeys , which is a utility in Windows to simulate keyboard events . refer following link for more details about Sendkeys
+http://msdn.microsoft.com/en-us/library/system.windows.forms.sendkeys.aspx
